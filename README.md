@@ -1,5 +1,6 @@
-![github_banner](https://user-images.githubusercontent.com/102482378/175649593-2c4e6508-1f97-4bb3-abad-cd6280926693.jpg)
+![github_banner_3 (2)](https://user-images.githubusercontent.com/102482378/175659373-132c56ab-cfb2-48cc-930d-cbacc6725853.jpg)
 
+[-- website --](https://www.natepeach.com/)  |  [-- twitter --](https://twitter.com/_NatePeach)  |  [-- linkedin --](https://www.linkedin.com/in/natepeach/)  |  -- angelist --  |  -- resume -- 
 
 <!---
 👋 hi, i’m @nate-peach
