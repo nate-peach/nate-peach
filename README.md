@@ -1,6 +1,9 @@
-![github_banner_3 (2)](https://user-images.githubusercontent.com/102482378/175659373-132c56ab-cfb2-48cc-930d-cbacc6725853.jpg)
+![github_banner_2](https://user-images.githubusercontent.com/102482378/175752568-94429356-9985-45dc-b1f3-48735ac39a8c.jpg)
 
-[-- website --](https://www.natepeach.com/)  |  [-- twitter --](https://twitter.com/_NatePeach)  |  [-- linkedin --](https://www.linkedin.com/in/natepeach/)  |  -- angelist --  |  -- resume -- 
+
+<p align="center"> <a href="https://www.natepeach.com/">-- website -- </a>  |  <a href="https://twitter.com/_NatePeach"> -- twitter --</a>  |  <a href="https://www.linkedin.com/in/natepeach/"> -- linkedin --</a> |  -- angelist --  |  -- resume -- </p>
+
+
 
 <!---
 👋 hi, i’m @nate-peach
