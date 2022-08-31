@@ -1,7 +1,7 @@
 ![github_banner_2](https://user-images.githubusercontent.com/102482378/175752568-94429356-9985-45dc-b1f3-48735ac39a8c.jpg)
 
 
-<p align="center"> <a href="https://www.natepeach.com/">-- website -- </a>  |  <a href="https://twitter.com/_NatePeach"> -- twitter --</a>  |  <a href="https://www.linkedin.com/in/natepeach/"> -- linkedin --</a> |  -- angelist --  |  -- resume -- </p>
+<p align="center"> <a href="https://www.natepeach.com/">-- website -- </a>  |  <a href="https://twitter.com/_NatePeach">-- twitter --</a>  |  <a href="https://www.linkedin.com/in/natepeach/">-- linkedin --</a> |  <a href="https://angel.co/u/nate-peach">-- angelist --</a>  |  -- resume -- </p>
 
 <h2 align="center">Hi 👋, I'm Nate</h2>
 <h3 align="center">A dedicated and curious software engineer in Oakland, CA.</h3>
