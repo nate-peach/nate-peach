@@ -1,21 +1,21 @@
 ![github_banner_2](https://user-images.githubusercontent.com/102482378/175752568-94429356-9985-45dc-b1f3-48735ac39a8c.jpg)
 
 
-<p align="center"> <a href="https://www.natepeach.com/">-- website -- </a>  |  <a href="https://twitter.com/_NatePeach">-- twitter --</a>  |  <a href="https://www.linkedin.com/in/natepeach/">-- linkedin --</a> |  <a href="https://angel.co/u/nate-peach">-- angelist --</a>  |  -- resume -- </p>
+<p align="center"> <a href="https://www.natepeach.com/">-- website -- </a>  |  <a href="https://twitter.com/_NatePeach">-- twitter --</a>  |  <a href="https://www.linkedin.com/in/natepeach/">-- linkedin --</a> |  <a href="https://angel.co/u/nate-peach">-- angelist --</a>
 
-<h2 align="center">Hi 👋, I'm Nate</h2>
-<h3 align="center">A dedicated and curious software engineer in Oakland, CA.</h3>
+<h2 align="center">Hi 😄 I'm Nate! Welcome to my GitHub</h2>
+<h3 align="center">I'm a curious software engineer based in Oakland, CA.</h3>
 
 
-🔭 I’m currently working on **Leftovers**
+🔭 I’m currently working on **Leftovers**, a full-stack web app that helps to reduce food waste.
 
 👨‍💻 Many of my projects are available at [natepeach.com](natepeach.com)
 
-📫 How to reach me **nathanpeach90@gmail.com**
+📫 Feel free to email me at: **nathanpeach90@gmail.com**
+<!---
+📄  My skills and experience are public here: [www.putyourresumelinkherenate.com](www.putyourresumelinkherenate.com)--->
 
-📄 Know about my experiences [www.putyourresumelinkherenate.com](www.putyourresumelinkherenate.com)
-
-⚡ **My last name is <em>actually</em> Peach**
+🍑 **My last name is <em>actually</em> Peach**
 
 
 <h3 align="left">Languages and Tools:</h3>
